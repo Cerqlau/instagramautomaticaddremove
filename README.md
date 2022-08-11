@@ -9,7 +9,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 ### 📋 Pré-requisitos
 
 ```
-=> Browser compatível com console para inspeção e teste de elementos de página. Ex: Chrome, Firefox, Edge, Opera entre outros em sua versão atualizada;
+=> Browser compatível com console para inspeção e teste de elementos de página. 
+Ex: Chrome, Firefox, Edge, Opera entre outros em sua versão atualizada;
 
 ```
 
@@ -212,8 +213,10 @@ if (operacao == '1'){
 ## 📦 Desenvolvimento
 
 Lauro Cerqueira
+
 LinkdIn: https://www.linkedin.com/in/lauro-cerqueira-70473568/
-Instagram : laurorcerqueira
+
+Instagram : @laurorcerqueira
 
 ## 📄 Licença
 
